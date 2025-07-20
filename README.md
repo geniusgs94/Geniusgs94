@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-**geniusgs94/Geniusgs94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#✨ Gaurav Here! ✨
 
 - 🔭 I’m currently working on Automation of Network Security and Encryption Protocols (Macsec, DOT1x)
 - 🌱 I’m currently learning Apache and Cloud. Having professional  competencies in Python, SQL, Automation, Data modelling.
