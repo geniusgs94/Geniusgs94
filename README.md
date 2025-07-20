@@ -1,6 +1,6 @@
-## Hi there 👋
+## 🙏 Namaste Amigos👋
 
-#✨ Gaurav Here! ✨
+✨ Gaurav Here! ✨
 
 - 🔭 I’m currently working on Automation of Network Security and Encryption Protocols (Macsec, DOT1x)
 - 🌱 I’m currently learning Apache and Cloud. Having professional  competencies in Python, SQL, Automation, Data modelling.
